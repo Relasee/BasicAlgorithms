@@ -1,0 +1,16 @@
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\bin\Debug\net5.0\DrawingCircle.exe
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\bin\Debug\net5.0\DrawingCircle.deps.json
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\bin\Debug\net5.0\DrawingCircle.runtimeconfig.json
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\bin\Debug\net5.0\DrawingCircle.runtimeconfig.dev.json
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\bin\Debug\net5.0\DrawingCircle.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\bin\Debug\net5.0\DrawingCircle.pdb
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.csproj.AssemblyReference.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.AssemblyInfoInputs.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.AssemblyInfo.cs
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\refint\DrawingCircle.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.pdb
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\DrawingCircle.genruntimeconfig.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingCircle\obj\Debug\net5.0\ref\DrawingCircle.dll
