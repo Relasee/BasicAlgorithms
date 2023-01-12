@@ -1,0 +1,16 @@
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\bin\Debug\net5.0\DrawingTriangle.exe
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\bin\Debug\net5.0\DrawingTriangle.deps.json
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\bin\Debug\net5.0\DrawingTriangle.runtimeconfig.json
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\bin\Debug\net5.0\DrawingTriangle.runtimeconfig.dev.json
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\bin\Debug\net5.0\DrawingTriangle.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\bin\Debug\net5.0\DrawingTriangle.pdb
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.csproj.AssemblyReference.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.AssemblyInfoInputs.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.AssemblyInfo.cs
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\refint\DrawingTriangle.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.pdb
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\DrawingTriangle.genruntimeconfig.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\DrawingTriangle\obj\Debug\net5.0\ref\DrawingTriangle.dll
