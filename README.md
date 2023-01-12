@@ -1,1 +1,3 @@
 # BasicAlgorithms
+
+There's some basic C# algorithms for you can try it...
