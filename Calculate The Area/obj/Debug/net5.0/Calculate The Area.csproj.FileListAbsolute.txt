@@ -1,0 +1,16 @@
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\bin\Debug\net5.0\Calculate The Area.exe
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\bin\Debug\net5.0\Calculate The Area.deps.json
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\bin\Debug\net5.0\Calculate The Area.runtimeconfig.json
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\bin\Debug\net5.0\Calculate The Area.runtimeconfig.dev.json
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\bin\Debug\net5.0\Calculate The Area.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\bin\Debug\net5.0\Calculate The Area.pdb
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.csproj.AssemblyReference.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.AssemblyInfoInputs.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.AssemblyInfo.cs
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\refint\Calculate The Area.dll
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.pdb
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\Calculate The Area.genruntimeconfig.cache
+C:\Users\Canberk\Desktop\Exercises\Practises\Calculate The Area\obj\Debug\net5.0\ref\Calculate The Area.dll
